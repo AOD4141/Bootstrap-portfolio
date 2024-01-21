@@ -1,0 +1,6 @@
+/* .container {margin:0px;padding:0px; box-sizing: border-box;}
+.header{width:100% !important; background-image:rgb(70, 181, 70)!important;}
+.navbar-brand{color:black!important;}*/
+.header{background-color:rgb(70, 181, 70)!important;} 
+ /* .main{font-family:serif !important;} */
+ .header{font-family:Georgia, 'Times New Roman', Times, serif!important;}
